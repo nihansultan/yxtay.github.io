@@ -23,7 +23,7 @@ and what the pros and cons are of each method.
 For GitHub Pages, the [documentation][gh-pages-docs]
 will be the relevant reference for this topic.
 
-## Gem-based Themes
+## Gem-based Themes xx
 
 This is the default method used for new Jekyll projects.
 When you initialise a new Jekyll project with `jekyll new`,
